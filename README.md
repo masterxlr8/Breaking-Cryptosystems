@@ -1,5 +1,5 @@
 ## CryptoTexts
-This is a repository which contains various stuff regarding cryptography.
+This is a repository which contains various topics regarding cryptography.
 
 # The repository contains:
 1. DES Theory and Implementation
