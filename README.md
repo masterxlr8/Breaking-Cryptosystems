@@ -1,5 +1,5 @@
 ## CryptoTexts
-CS641
+CS641 Course Project
 
 # The repository contains:
 1. DES Theory and Implementation
