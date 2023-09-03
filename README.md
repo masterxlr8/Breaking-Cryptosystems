@@ -1,5 +1,5 @@
 ## CryptoTexts
-This is a repository which contains various topics regarding cryptography.
+CS641
 
 # The repository contains:
 1. DES Theory and Implementation
